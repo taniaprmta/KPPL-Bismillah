@@ -1,0 +1,424 @@
+<br><br>
+			
+
+<html>
+<head>
+	<title>TRANSKRIP MATA KULIAH</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<style>
+		table.plainGrid
+		{
+			background: white;
+			border-collapse: collapse;
+		}
+		
+		table.plainGrid td
+		{
+			border: 1px #000 solid;
+			padding: 0.3em;
+			font-family:Verdana, Arial, Helvetica, sans-serif;
+			font-size: 11px;
+		}
+		
+		table.dataGrid tr
+		{
+			color:#000;
+		}
+		
+		
+	</style>
+</head>
+<body leftmargin="0" rightmargin="0" topmargin="0" bottommargin="0">
+<div align="center" style="padding:5px">
+<table align="center" cellpadding="4" cellspacing="0">
+	<tr>
+		<td align="center" colspan="5"><strong><font size="3">TRANSKRIP MATA KULIAH</font></strong></td>
+	</tr>
+</table>
+<br>
+<table class="plainGrid">
+	<tr>
+		<td class="EditTabLabel"><strong>NRP / Nama</strong></td>
+		<td> 5214100056 / DHIMAS DWIJO RAHMINTO </td>
+    </tr>
+    <tr>
+		<td class="EditTabLabel"><strong>SKS Tempuh / SKS Lulus</strong></td>
+		<td> 138 / 115 </td>
+    </tr>
+    <tr>
+		<td class="EditTabLabel"><strong>Status </strong></td>
+		<td>  Normal</td>
+    </tr>	
+</table>
+
+<br>  
+    
+	  <table class="plainGrid">
+  		<tr> 
+			<td align="center" colspan="5"><strong>--- Tahap: Persiapan ---</strong></td>
+  		</tr>
+        <tr class="trJudul"> 
+            <td width="50" align="center">Kode</td>
+            <td width="200" align="center">Nama Mata Kuliah</td>
+            <td width="30" align="center">SKS</td>
+            <td width="100" align="center">Historis Nilai</td>
+            <td width="50" align="center">Nilai</td>
+        </tr>
+		  	 
+            <tr>		
+                <td align="center">IG141101</td>
+                <td align="left">Pendidikan Agama Islam</td>
+                <td align="center">2</td>
+                <td align="left">2014/Gs/B </td>
+                <td align="center">B </td>		
+            </tr>
+				 
+            <tr>		
+                <td align="center">IG141106</td>
+                <td align="left">Wawasan Kebangsaan</td>
+                <td align="center">3</td>
+                <td align="left">2014/Gs/B </td>
+                <td align="center">B </td>		
+            </tr>
+				 
+            <tr>		
+                <td align="center">KS141201</td>
+                <td align="left">Manajemen dan Organisasi</td>
+                <td align="center">3</td>
+                <td align="left">2014/Gs/B </td>
+                <td align="center">B </td>		
+            </tr>
+				 
+            <tr>		
+                <td align="center">KS141202</td>
+                <td align="left">Sistem dan Teknologi Informasi</td>
+                <td align="center">3</td>
+                <td align="left">2014/Gs/B </td>
+                <td align="center">B </td>		
+            </tr>
+				 
+            <tr>		
+                <td align="center">KS141203</td>
+                <td align="left">Matematika Diskrit</td>
+                <td align="center">3</td>
+                <td align="left">2014/Gs/BC</td>
+                <td align="center">BC</td>		
+            </tr>
+				 
+            <tr>		
+                <td align="center">KS141204</td>
+                <td align="left">Bahasa Pemrograman</td>
+                <td align="center">4</td>
+                <td align="left">2014/Gs/BC</td>
+                <td align="center">BC</td>		
+            </tr>
+				 
+            <tr>		
+                <td align="center">IG141107</td>
+                <td align="left">Wawasan Teknologi dan Komunikasi Ilmiah</td>
+                <td align="center">3</td>
+                <td align="left">2014/Gn/AB</td>
+                <td align="center">AB</td>		
+            </tr>
+				 
+            <tr>		
+                <td align="center">IG141108</td>
+                <td align="left">Bahasa Inggris</td>
+                <td align="center">3</td>
+                <td align="left">2014/Gn/B </td>
+                <td align="center">B </td>		
+            </tr>
+				 
+            <tr>		
+                <td align="center">KS141205</td>
+                <td align="left">Algoritma dan Struktur Data</td>
+                <td align="center">3</td>
+                <td align="left">2014/Gn/B </td>
+                <td align="center">B </td>		
+            </tr>
+				 
+            <tr>		
+                <td align="center">KS141206</td>
+                <td align="left">Pengantar Sistem Operasi</td>
+                <td align="center">2</td>
+                <td align="left">2014/Gn/AB</td>
+                <td align="center">AB</td>		
+            </tr>
+				 
+            <tr>		
+                <td align="center">KS141207</td>
+                <td align="left">Arsitektur SI/TI Perusahaan</td>
+                <td align="center">3</td>
+                <td align="left">2014/Gn/B </td>
+                <td align="center">B </td>		
+            </tr>
+				 
+            <tr>		
+                <td align="center">KS141208</td>
+                <td align="left">Kepemimpinan dan Ketrampilan Interpersonal</td>
+                <td align="center">4</td>
+                <td align="left">2014/Gn/AB</td>
+                <td align="center">AB</td>		
+            </tr>
+			
+			<tr>
+				<td align="center" colspan="5">Total Sks Tahap Persiapan : <strong>36</strong></td>
+			</tr>
+			<tr>
+				<td align="center" colspan="5">IP Tahap Persiapan : <strong>3.03</strong></td>
+			</tr>
+
+	  
+		</table>
+
+        <br>
+
+        <table class="plainGrid">
+			<tr> 
+				<td align="center" colspan="5"><strong>--- Tahap: Sarjana ---</strong></td>
+			</tr>
+			<tr> 
+				<td width="50" align="center">Kode</td>
+				<td width="200" align="center">Nama Mata Kuliah</td>
+				<td width="30" align="center">SKS</td>
+				<td width="100" align="center">Historis Nilai</td>
+				<td width="50" align="center">Nilai</td>
+			</tr>
+		              <tr>		
+                <td align="center">KS141209</td>
+                <td align="left">Statistika</td>
+                <td align="center">4</td>
+                <td align="left">2015/Gs/B </td>
+                <td align="center">B </td>		
+            </tr>
+                         <tr>		
+                <td align="center">KS141301</td>
+                <td align="left">Desain dan Manajemen Proses Bisnis</td>
+                <td align="center">4</td>
+                <td align="left">2015/Gs/AB</td>
+                <td align="center">AB</td>		
+            </tr>
+                         <tr>		
+                <td align="center">KS141302</td>
+                <td align="left">Desain dan Manajemen Jaringan Komputer</td>
+                <td align="center">3</td>
+                <td align="left">2015/Gs/B </td>
+                <td align="center">B </td>		
+            </tr>
+                         <tr>		
+                <td align="center">KS141303</td>
+                <td align="left">Dasar-Dasar Pengembangan Perangkat Lunak</td>
+                <td align="center">3</td>
+                <td align="left">2015/Gs/B </td>
+                <td align="center">B </td>		
+            </tr>
+                         <tr>		
+                <td align="center">KS141304</td>
+                <td align="left">Pengantar Basis Data</td>
+                <td align="center">3</td>
+                <td align="left">2015/Gs/BC</td>
+                <td align="center">BC</td>		
+            </tr>
+                         <tr>		
+                <td align="center">KS141305</td>
+                <td align="left">Pemrograman Berorientasi Objek</td>
+                <td align="center">3</td>
+                <td align="left">2015/Gs/AB</td>
+                <td align="center">AB</td>		
+            </tr>
+                         <tr>		
+                <td align="center">KS141306</td>
+                <td align="left">Analisis dan Desain Perangkat Lunak</td>
+                <td align="center">4</td>
+                <td align="left">2015/Gn/AB</td>
+                <td align="center">AB</td>		
+            </tr>
+                         <tr>		
+                <td align="center">KS141307</td>
+                <td align="left">Interaksi Manusia dan Komputer</td>
+                <td align="center">3</td>
+                <td align="left">2015/Gn/B </td>
+                <td align="center">B </td>		
+            </tr>
+                         <tr>		
+                <td align="center">KS141308</td>
+                <td align="left">Keamanan Aset Informasi</td>
+                <td align="center">4</td>
+                <td align="left">2015/Gn/AB</td>
+                <td align="center">AB</td>		
+            </tr>
+                         <tr>		
+                <td align="center">KS141309</td>
+                <td align="left">Desain Basis Data</td>
+                <td align="center">4</td>
+                <td align="left">2015/Gn/AB</td>
+                <td align="center">AB</td>		
+            </tr>
+                         <tr>		
+                <td align="center">KS141310</td>
+                <td align="left">Pemrograman Berbasis Web</td>
+                <td align="center">3</td>
+                <td align="left">2015/Gn/B </td>
+                <td align="center">B </td>		
+            </tr>
+                         <tr>		
+                <td align="center">KS141312</td>
+                <td align="left">Manajemen Proyek TI</td>
+                <td align="center">4</td>
+                <td align="left">2016/Gs/B </td>
+                <td align="center">B </td>		
+            </tr>
+                         <tr>		
+                <td align="center">KS141313</td>
+                <td align="left">Riset Operasi</td>
+                <td align="center">3</td>
+                <td align="left">2016/Gs/AB</td>
+                <td align="center">AB</td>		
+            </tr>
+                         <tr>		
+                <td align="center">KS141314</td>
+                <td align="left">Simulasi Sistem</td>
+                <td align="center">2</td>
+                <td align="left">2016/Gs/AB</td>
+                <td align="center">AB</td>		
+            </tr>
+                         <tr>		
+                <td align="center">KS141315</td>
+                <td align="left">Perencanaan Sumber Daya Perusahaan</td>
+                <td align="center">4</td>
+                <td align="left">2016/Gs/C </td>
+                <td align="center">C </td>		
+            </tr>
+                         <tr>		
+                <td align="center">KS141316</td>
+                <td align="left">Manajemen Layanan TI</td>
+                <td align="center">3</td>
+                <td align="left">2016/Gs/AB</td>
+                <td align="center">AB</td>		
+            </tr>
+                         <tr>		
+                <td align="center">KS141210</td>
+                <td align="left">Tata Tulis Ilmiah</td>
+                <td align="center">2</td>
+                <td align="left">2016/Gn/A </td>
+                <td align="center">A </td>		
+            </tr>
+                         <tr>		
+                <td align="center">KS141317</td>
+                <td align="left">Tata Kelola TI</td>
+                <td align="center">3</td>
+                <td align="left">2016/Gn/AB</td>
+                <td align="center">AB</td>		
+            </tr>
+                         <tr>		
+                <td align="center">KS141318</td>
+                <td align="left">Manajemen Resiko TI</td>
+                <td align="center">3</td>
+                <td align="left">2016/Gn/C </td>
+                <td align="center">C </td>		
+            </tr>
+                         <tr>		
+                <td align="center">KS141319</td>
+                <td align="left">Manajemen Pengadaan dan Investasi TI</td>
+                <td align="center">3</td>
+                <td align="left">2015/Gn/AB</td>
+                <td align="center">AB</td>		
+            </tr>
+                         <tr>		
+                <td align="center">KS141320</td>
+                <td align="left">Manajemen Rantai Pasok dan Hubungan Pelanggan</td>
+                <td align="center">3</td>
+                <td align="left">2016/Gn/BC</td>
+                <td align="center">BC</td>		
+            </tr>
+                         <tr>		
+                <td align="center">KS141321</td>
+                <td align="left">Manajemen dan Administrasi Basis Data</td>
+                <td align="center">3</td>
+                <td align="left">2016/Gn/C </td>
+                <td align="center">C </td>		
+            </tr>
+                         <tr>		
+                <td align="center">KS141322</td>
+                <td align="left">Sistem Cerdas</td>
+                <td align="center">3</td>
+                <td align="left">2016/Gn/B </td>
+                <td align="center">B </td>		
+            </tr>
+                         <tr>		
+                <td align="center">KS141323</td>
+                <td align="left">Pengukuran Kinerja dan Evaluasi TI</td>
+                <td align="center">3</td>
+                <td align="left">2016/Gn/B </td>
+                <td align="center">B </td>		
+            </tr>
+                         <tr>		
+                <td align="center">KS141325</td>
+                <td align="left">Etika Profesi SI</td>
+                <td align="center">2</td>
+                <td align="left">2016/Gs/AB</td>
+                <td align="center">AB</td>		
+            </tr>
+             
+			<tr>
+				<td align="center" colspan="5">Total Sks Tahap Sarjana : <strong>79</strong></td>
+			</tr>
+			<tr>
+				<td align="center" colspan="5">IP Tahap Sarjana : <strong>3.08</strong></td>
+			</tr>
+
+		</table>
+		       
+                 
+		<br>
+			
+		<table class="plainGrid">
+  			<tr>
+				<td>Total Sks</td>
+				<td><strong>115</strong></td>
+            </tr>
+            <tr>
+				<td>IPK</td>
+				<td><strong>3.07</strong></td>
+            </tr>         
+		</table>
+        
+		<br>
+			
+        <table class="plainGrid">
+        <tr>
+			<td><div align="center" class="trSubJudul"><strong>Judul Tugas Akhir / Thesis / Disertasi </strong></div></td>
+      	</tr>
+                 </table>
+		
+        <br>
+        
+		<table class="plainGrid">
+			<tr>
+				<td ><span class="Teks"><strong>CATATAN</strong> 
+		<p>Transkrip Akademik ini hanya berlaku untuk keperluan:</span>
+		
+		<ol>
+			<li>Pengajuan Beasiswa</li>
+			<li>Melamar Pekerjaan</li>
+			<li>Persyaratan Yudisium</li>
+			<li>Tunjangan Gaji</li>
+			<li>........................................................... (tuliskan 
+keperluannya)</li>
+		</ol>
+		</p>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<span class="Teks"><strong>Tanggal Cetak</strong>: 01 Oktober 2017 </span>
+				</td>
+			</tr>
+		</table>
+		<br/>
+</div>
+</body>
+</html>
+
+
+
